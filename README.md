@@ -23,7 +23,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `Fresh Graduate` from the [Faculty of Computers Scienece & Engineering](#) at [University of Asia Pacific](#).
+- :school: I am a `Fresh Graduate` from the [Faculty of Computer Scienece & Engineering](#) at [University of Asia Pacific](#).
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `URI`, 
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
