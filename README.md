@@ -98,19 +98,14 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="" /></a> </p>
-
-
-	
-</details>
-	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
+	
+
+</details>
+
+
 
 </br></br>
 
