@@ -25,7 +25,7 @@
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty of Computer Scienece & Engineering](#) at [University of Asia Pacific](#).
 - :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `URI`, 
+- :computer: I am a competitive programmer at  `Leetcode`, `URI`, 
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
