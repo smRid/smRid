@@ -68,5 +68,11 @@
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
 
+### 📊 Github Stats
+<div style="display: flex;">
+    <img alt="Stats of smRid" style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=smRid&show_icons=true&theme=omni"/>
+    <img alt="Languages" style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smRid&layout=compact&theme=omni"/>
+</div>
+
 
 
