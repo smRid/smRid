@@ -10,7 +10,7 @@
 </p> 
 
 ### 🙋‍♂️ About Me
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=25%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20%>
 <br>
 
 🏢 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑼𝒏𝒅𝒆𝒓𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
