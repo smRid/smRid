@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Competitive+Programmer;Always+learning+new+things&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Problem+Solving;Always+learning+new+things&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 ### 🙋‍♂️ About Me
