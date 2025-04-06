@@ -27,10 +27,10 @@
 
 
 ### 📧 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)]()
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)]()
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)]() 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)](https://riduan-devfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriduan/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smrid98@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/1857329586) 
 
 
 <br>
