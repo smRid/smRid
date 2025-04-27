@@ -5,9 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Problem+Solving;Always+learning+new+things&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+
 
 ### 🙋‍♂️ About Me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20%>
