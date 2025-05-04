@@ -54,6 +54,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff)
+
 <br>
 
 
@@ -70,6 +71,7 @@
 ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=ffffff)
 ![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat&logo=react&logoColor=ffffff)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=ffffff)
+
 <br>
 
 #### Backend
@@ -78,39 +80,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
-
-<br>
-
-#### Tools & Platforms
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
-
-<br>
-
-#### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Responsive Design](https://img.shields.io/badge/-Responsive_Design-51B7B3?style=flat&logo=responsive&logoColor=ffffff)
-![UX/UI Design](https://img.shields.io/badge/-UX/UI_Design-FF4785?style=flat&logo=design&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat&logo=powershell&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Testing: Jest](https://img.shields.io/badge/-Testing:_Jest-C21325?style=flat&logo=jest&logoColor=ffffff)
-![Performance Optimization](https://img.shields.io/badge/-Performance_Optimization-007ACC?style=flat&logo=performance&logoColor=ffffff)
-![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=continuous-integration&logoColor=ffffff)
-![Agile](https://img.shields.io/badge/-Agile-FF3E00?style=flat&logo=agile&logoColor=ffffff)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrum&logoColor=ffffff)
-
-
-
 
 <br>
 
