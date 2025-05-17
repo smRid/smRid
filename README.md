@@ -1,12 +1,7 @@
-
-
-  <h3 align="center">
+<h3 align="center">
 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 Riduan'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
-
-
-
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20%>
 
@@ -19,9 +14,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smrid98@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/1857329586) 
 
-
 <br>
-
 
 ## 🛠 &nbsp;Tech Stack
 
