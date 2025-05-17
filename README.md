@@ -46,14 +46,13 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=ffffff)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=ffffff) <br>
+![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=ffffff) <br>
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff)
-![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=ffffff)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=ffffff)
 <br>
 
