@@ -56,7 +56,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smRid&" alt="smRid" /></p>    
 <br>
 
-![Mahmoud's github](https://github-readme-stats.vercel.app/api?username=smRid&show_icons=true&hide_border=true)
+![Riduan's github](https://github-readme-stats.vercel.app/api?username=smRid&show_icons=true&hide_border=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 
 <img src="https://komarev.com/ghpvc/?username=smRid&style=for-the-badge">  
