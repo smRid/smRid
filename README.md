@@ -51,12 +51,16 @@
 
 <br>
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=smrid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=smrid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smrid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smRid&" alt="smRid" /></p>    
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=smrid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Riduan's github](https://github-readme-stats.vercel.app/api?username=smRid&show_icons=true&hide_border=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 
-<img src="https://komarev.com/ghpvc/?username=smRid&style=for-the-badge">  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=smrid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
