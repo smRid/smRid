@@ -7,7 +7,7 @@
 
 
 
-<h1 align="left" style="color: #4A90E2;">Hi 👋, I'm Sarker Mohammad Riduan</h1>
+<h2 align="left" style="color: #4A90E2;">Hi 👋, I'm Sarker Mohammad Riduan</h2>
 <h3 align="left" style="color: #50E3C2;">⚡ Full-Stack Developer</h3>
 <p align="left" style="font-size: 1.1em;">
   I am a web developer passionate about building responsive and secure web applications. I love exploring modern web technologies like Next.js, PostgreSQL, Prisma, and JWT, and always strive to improve my skills in full-stack development.
