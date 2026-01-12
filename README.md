@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smRid" alt="arman-miaa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smRid" alt="smRid" />
 </p>
 
 
