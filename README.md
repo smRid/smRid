@@ -74,7 +74,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smRid&show_icons=true&locale=en" alt="smRid" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smRida&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smRid&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
 <p align="center">
