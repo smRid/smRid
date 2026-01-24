@@ -68,19 +68,24 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 
----
+
+<br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smRid&show_icons=true&locale=en" alt="smRid" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smRid&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img width="55%" src="https://nirzak-streak-stats.vercel.app?user=smRid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    
 </p>
 
+<p align="center"><img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=smRid&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
+    <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smRid" alt="smRid" />
+    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=smRid&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
-
 
 ---
 
