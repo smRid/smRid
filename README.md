@@ -14,10 +14,12 @@
 </p>
 
 ---
+<a href="https://devfolio-riduan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1E90FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
 
 ### 🤝 Connect with me:
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)](https://devfolio-riduan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriduan/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smrid98@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/1857329586) 
