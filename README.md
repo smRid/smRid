@@ -27,8 +27,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=smRid&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
-<br>
-
 
 ---
 
@@ -44,7 +42,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-FF6A13?style=for-the-badge\&logo=zustand\&logoColor=white)
 
 ---
 
@@ -56,7 +53,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge\&logo=prisma\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ---
 
@@ -68,7 +64,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 
 
 <br>
@@ -76,8 +71,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="55%" src="https://nirzak-streak-stats.vercel.app?user=smRid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    
+  <img width="55%" src="https://nirzak-streak-stats.vercel.app?user=smRid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>  
 </p>
 
 <p align="center"><img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=smRid&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
@@ -90,7 +84,6 @@
 </p>
 
 ---
-
 
 ### ✍️ Random Dev Quote
 
