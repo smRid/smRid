@@ -3,17 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=40%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=35%>
 
 
 
 <h2 align="left" style="color: #4A90E2;">Hi 👋, I'm Sarker Mohammad Riduan</h2>
 <h3 align="left" style="color: #50E3C2;">⚡ Full-Stack Developer</h3>
-<p align="left" style="font-size: 1.1em;">
-  I am a web developer passionate about building responsive and secure web applications. I love exploring modern web technologies like Next.js, PostgreSQL, Prisma, and JWT, and always strive to improve my skills in full-stack development.
-</p>
 
----
+
 <a href="https://devfolio-riduan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1E90FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
@@ -27,8 +24,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=smRid&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
-
----
 
 ## 🛠️ Tech Stack
 
