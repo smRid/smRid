@@ -65,9 +65,13 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img width="55%" src="https://nirzak-streak-stats.vercel.app?user=smRid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>  
-</p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=smRid&theme=tokyonight&hide_border=true" />
+  </a>
+</p> 
+
 
 <p align="center"><img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=smRid&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
     <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
