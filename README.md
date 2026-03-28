@@ -65,11 +65,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=smRid&theme=tokyonight&hide_border=true" />
-  </a>
-</p> 
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=smRid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 
 <p align="center"><img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=smRid&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
