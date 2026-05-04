@@ -1,14 +1,14 @@
-<h3 align="center">
-𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 Riduan'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h3>
-
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=35%>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Software+Engineer;Fullstack+Developer;AI+SAAS+Developer;Tech+Enthusiast;" />
+</p>
 
 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-<h2 align="left" style="color: #4A90E2;">Hi 👋, I'm Sarker Mohammad Riduan</h2>
-<h3 align="left" style="color: #50E3C2;">⚡ Full-Stack Developer</h3>
+
+
+<h3 align="left" style="color: #4A90E2;">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Sarker Mohammad Riduan</h3>
+
 
 
 <a href="https://devfolio-riduan.vercel.app/" target="_blank">
