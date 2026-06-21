@@ -55,15 +55,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=smRid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img width="49%" src="https://streak-stats.demolab.com?user=smRid&theme=tokyonight&hide_border=true" />
+  <img width="41%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
-
-
-<p align="center"><img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=smRid&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
-    <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
