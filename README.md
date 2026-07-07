@@ -55,7 +55,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=smRid&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=smRid&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact"/>
   <img width="41%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
