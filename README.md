@@ -59,10 +59,6 @@
   <img width="41%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=smRid&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
-<!-- Activity Graph -->
-<p align="center">
-    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=smRid&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
 
 
 
